@@ -3,7 +3,7 @@
 
 // untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
 // pastikan mode offline mp3 true jika merubah ke mode mp3
-// file:///android_asset/music/playlist.html
+// "file:///android_asset/music/playlist.html"
 
 "HOMEURL" : "file:///android_asset/music/playlist.html",
 
