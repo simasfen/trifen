@@ -16,8 +16,8 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -41,7 +41,7 @@
 
 "STARTAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-2135713829887949/338932331-",
+"ADMOB_BANNER" : "ca-app-pub-2135713829887949/3389323319",
 "ADMOB_INTER" : "ca-app-pub-2135713829887949/3956299520",
 "ADMOB_NATIV" : "ca-app-pub-2135713829887949/2850062680",
 
