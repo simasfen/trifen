@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -41,9 +41,9 @@
 
 "STARTAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-2135713829887949/728485321",
-"ADMOB_INTER" : "ca-app-pub-2135713829887949/597177154",
-"ADMOB_NATIV" : "ca-app-pub-2135713829887949/120039450",
+"ADMOB_BANNER" : "ca-app-pub-2135713829887949/7284853217",
+"ADMOB_INTER" : "ca-app-pub-2135713829887949/5971771545",
+"ADMOB_NATIV" : "ca-app-pub-2135713829887949/1200394507",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
